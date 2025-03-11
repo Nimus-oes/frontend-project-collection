@@ -14,4 +14,4 @@ A static contact form page built with HTML, CSS, and React.
 
 🔗 [Repository](https://github.com/Nimus-oes/react-static-contact-form)  
 🔗 [Live Demo](https://nimus-oes.github.io/react-static-contact-form/)  
-🔗 [Blog Article](https://nimus.hashnode.dev/contact-form-fe-project-1)
+🔗 [Blog Article](https://nimus.hashnode.dev/contact-form-fe-project-1-1)
