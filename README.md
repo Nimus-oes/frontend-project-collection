@@ -14,7 +14,7 @@ An interactive React application offering real-time analysis of user input.
 
 🔗 [Repository](https://github.com/Nimus-oes/react-character-counter)  
 🔗 [Live Demo](https://nimus-oes.github.io/react-character-counter/)  
-🔗 [Blog Article](https://nimus.hashnode.dev/)
+🔗 [Blog Article](https://nimus.hashnode.dev/character-counter-app-frontend-project-2)
 
 <br />
 
