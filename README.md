@@ -10,6 +10,13 @@ A collection of my frontend projects. `Cmd + Click` (or `Ctrl + Click` on Window
 
 An interactive React application offering real-time analysis of user input.
 
+**Key Concepts**:
+
+- State management
+- Controlled input
+- Dark/light theme
+- Collapsible list
+
 <br />
 
 🔗 [Repository](https://github.com/Nimus-oes/react-character-counter)  
@@ -23,6 +30,12 @@ An interactive React application offering real-time analysis of user input.
 <img src="assets/01-contact-form.png" width="60%">
 
 A static contact form page built with HTML, CSS, and React.
+
+**Key Concepts**:
+
+- Static page rendering
+- `rem` for enhanced accessibility
+- Flexbox layout
 
 <br />
 
