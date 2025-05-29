@@ -2,7 +2,27 @@
 
 A collection of my frontend projects. `Cmd + Click` (or `Ctrl + Click` on Windows) to open them in new tabs.
 
-<br>
+<br />
+
+## 3. World Ranks Dashboard
+
+<img src="assets/03-world-ranks.png" width="60%">
+
+An interactive React + TypeScript application that fetches real-time country data from the REST Countries API.
+
+**Key Concepts**:
+
+- Type system
+- Asynchronous data fetching
+- Internationalization & localization
+- Component primitives
+
+<br />
+
+🔗 [Repository](https://github.com/Nimus-oes/react-world-ranks)  
+🔗 [Live Demo](https://nimus-oes.github.io/react-world-ranks/)
+
+<br />
 
 ## 2. Character Counter App
 
